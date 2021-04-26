@@ -1,0 +1,7 @@
+HTTPS
+https://github.com/NicholasLimmm/19TI2_UAS_GITHUB_ElricoTantoJaya_NicholasLim.git
+
+
+SSH
+git@github.com:NicholasLimmm/19TI2_UAS_GITHUB_ElricoTantoJaya_NicholasLim.git
+
